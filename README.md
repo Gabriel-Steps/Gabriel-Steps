@@ -3,8 +3,8 @@
 ### Gabriel Passos Francisco - Programador Júnior Full Stack | Programação Web - React | Programação Mobile Reat-Native | Automatização de tarefas - Python | Backend - PHP | Programação Orientada a Objetos (POO) - Java e C# | SGDBs - Mysql 
  <div>
    <a href="https://github.com/Gabriel-Steps">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gabriel-Steps&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-Steps&layout=compact&langs_count=6&theme=tokyonight"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gabriel-Steps&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-Steps&layout=compact&langs_count=6&theme=synthwave"/>
 </div>
     
 <div style="display: inline_block"><br>
