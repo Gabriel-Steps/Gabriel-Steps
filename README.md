@@ -1,6 +1,6 @@
 ## Bem-vindo(a) ao perfil do Gabriel Steps 😁
 
-### Gabriel Passos Francisco - Programador Júnior Full Stack | Programação Web - React | Programação Mobile Reat-Native | Automatização de tarefas - Python | Backend - PHP | Programação Orientada a Objetos (POO) - Java e C# | SGDBs - Mysql 
+### Gabriel Passos Francisco - Programador Júnior Full Stack | Programação Web - React | Programação Mobile Reat-Native | Automatização de tarefas - Python | Backend - PHP, Node.js | Programação Orientada a Objetos (POO) - Java e C# | SGDBs - Mysql 
  <div>
    <a href="https://github.com/Gabriel-Steps">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gabriel-Steps&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
