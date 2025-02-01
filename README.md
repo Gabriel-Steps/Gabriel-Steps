@@ -1,6 +1,6 @@
 ## Bem-vindo(a) ao perfil do Gabriel Steps 😁
 
-### Gabriel Passos Francisco - Programador Júnior Full Stack | Programação Web - React | Programação Mobile Reat-Native | Automatização de tarefas - Python | Backend - PHP, Node.js | Programação Orientada a Objetos (POO) - Java e C# | SGDBs - Mysql 
+### Sou um desenvolvedor apaixonado por tecnologia, com expertise em .NET, REST APIs, Entity Framework Core e SQL Server. Minha jornada inclui o desenvolvimento de aplicações web escaláveis e eficientes, sempre focando em boas práticas de programação e soluções robustas. Estou em constante busca de evolução técnica, me especializando em C#, ASP.NET Core e integração com bancos de dados relacionais para entregar resultados de alta qualidade.
  <div>
    <a href="https://github.com/Gabriel-Steps">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gabriel-Steps&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
