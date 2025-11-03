@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil do Gabriel Steps 😁
+## Welcome to Gabriel Steps' profile 😁
 
 ### Full Stack Developer | .NET & React.js Specialist
 
