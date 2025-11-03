@@ -1,6 +1,36 @@
 ## Bem-vindo(a) ao perfil do Gabriel Steps 😁
 
-### Sou um desenvolvedor apaixonado por tecnologia, com expertise em .NET, REST APIs, Entity Framework Core e SQL Server. Minha jornada inclui o desenvolvimento de aplicações web escaláveis e eficientes, sempre focando em boas práticas de programação e soluções robustas. Estou em constante busca de evolução técnica, me especializando em C#, ASP.NET Core e integração com bancos de dados relacionais para entregar resultados de alta qualidade.
+### Full Stack Developer | .NET & React.js Specialist
+
+I’m a passionate developer with expertise in C# and .NET, building scalable web applications with React.js on the frontend and REST APIs, Entity Framework Core, and SQL Server on the backend. I focus on clean architecture, performance optimization, and robust solutions, always following best practices to deliver high-quality software. I’m continuously evolving my skills, specializing in C#, ASP.NET Core, and relational database integration to create efficient, innovative, and maintainable systems.
+
+### 🚀 Technical Skills:
+
+- C# | .NET | ASP.NET Core
+- React.js | JavaScript | TypeScript
+- Entity Framework Core
+- REST APIs
+- SQL Server | MySQL
+- Clean Architecture & Design Patterns
+- Automated Testing & Unit Testing
+- Git | CI/CD
+
+### 🔧 Tools:
+
+- Visual Studio | VS Code
+- GitHub | GitLab
+- SQL Server Management Studio | MySQL Workbench
+- Postman | Docker (optional)
+
+### 🌟 Personal Qualities:
+
+- Fast learner & problem solver
+- Passionate about technology and innovation
+- Collaborative team player, open to feedback
+- Focused on creating efficient, scalable, and clean solutions
+
+---
+
  <div>
    <a href="https://github.com/Gabriel-Steps">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gabriel-Steps&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
@@ -19,7 +49,7 @@
  
 <br>
  
-### Rede sociais e contato logo abaixo
+### Social media and contacts below
  
 <div> 
  <a href="https://discord.com/users/738461137762386001" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
